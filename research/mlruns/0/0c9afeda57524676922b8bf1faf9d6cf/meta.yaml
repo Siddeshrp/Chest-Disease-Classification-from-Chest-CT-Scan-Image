@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Siddesh%20Pawar/Desktop/ML%20Projects/Chest%20Disease%20Classfication/Chest-Disease-Classification-from-Chest-CT-Scan-Image/research/mlruns/0/0c9afeda57524676922b8bf1faf9d6cf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c9afeda57524676922b8bf1faf9d6cf
+run_name: enchanting-bat-577
+run_uuid: 0c9afeda57524676922b8bf1faf9d6cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710240689652
+status: 1
+tags: []
+user_id: Siddesh Pawar

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Siddesh%20Pawar/Desktop/ML%20Projects/Chest%20Disease%20Classfication/Chest-Disease-Classification-from-Chest-CT-Scan-Image/research/mlruns/0/d4a0a662862144a2ad9192c9804610dc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4a0a662862144a2ad9192c9804610dc
+run_name: bright-crow-604
+run_uuid: d4a0a662862144a2ad9192c9804610dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710240568996
+status: 1
+tags: []
+user_id: Siddesh Pawar
